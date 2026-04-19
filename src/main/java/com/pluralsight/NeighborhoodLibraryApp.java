@@ -126,6 +126,7 @@ public class NeighborhoodLibraryApp {
         input.nextLine();
 
             while (option != 1 && option != 2) {
+                System.out.println("Invalid input please try again.");
                 System.out.println("What do you want to do now?");
                 System.out.println("Enter 1 to check out");
                 System.out.println("Enter 2 to exit back to the home screen");
