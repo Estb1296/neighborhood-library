@@ -1,11 +1,11 @@
 # Project Name
 Neighborhood library App- A library book inventory management system that facilitates check-in and checkout.
 While displaying books available to be checked out and books already checked out, with any relevant information.
-## Table of contents
-  -Installation
-  -Usage
-  -features
-  -Contributing
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
 ## Installation
   
 ### Prerequisites
@@ -222,3 +222,5 @@ target/
 - View available and checked-out books
 - Simple command-line interface
 - Easy maneuver between screens in the console
+## Contributing
+Guidelines or notes for contributions go here.
